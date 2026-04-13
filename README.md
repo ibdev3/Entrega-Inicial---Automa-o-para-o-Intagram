@@ -57,3 +57,11 @@ testes:
 - validar se o log está sendo salvo corretamente
 - validar se usuários duplicados não recebem mensagem
 - validar escolha aleatória de mensagens
+____________________________________________________________________________
+
+versão:
+1.0.0
+____________________________________________________________________________
+
+autor: Inácio Barros de Sousa 
+LINK REPOSITORIO: https://github.com/ibdev3/Entrega-Inicial---Automa-o-para-o-Intagram
