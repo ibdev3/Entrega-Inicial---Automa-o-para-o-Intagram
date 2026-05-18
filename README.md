@@ -62,6 +62,13 @@ ____________________________________________________________________________
 versão:
 1.0.0
 ____________________________________________________________________________
+# Detector de Usuários Quentes
+
+## Deploy
+[https://ibdev3.github.io/entrega-intermediaria/](https://ibdev3.github.io/Entrega-Inicial---Automa-o-para-o-Intagram/)
+
+## Repositório
+https://github.com/ibdev3/Entrega-Inicial---Automa-o-para-o-Intagram
 
 autor: Inácio Barros de Sousa 
 ____________________________________________________________________________
